@@ -6,3 +6,6 @@ def tail_recursion(n):
     return tail_recursion(n - 1)
 
 tail_recursion(5)
+
+def bob():
+    student = { name: "Bob", age: 20,}
